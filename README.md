@@ -13,7 +13,7 @@ My stack:
 - Spring, Spring Boot, Spring Cloud
 - JDBC, Hibernate, Flyway
 - PostgreSQL, MySQL
-- Kafka, gRPC
+- REST API, Kafka, gRPC
 - Docker
 - Maven
 - Git (you knew it!)
